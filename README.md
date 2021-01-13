@@ -21,3 +21,5 @@ Feel Free to Contact Me through E-mail
 ### Reading List
 
 - [Books](https://xiaozhiliaoo.github.io/reading-list/)  The book I bought and read.
+- [TechQuotes](https://xzl.gitbook.io/tech-quotes/) Technical thought and caprice.
+
