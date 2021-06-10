@@ -1,10 +1,10 @@
-### <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaozhiliaoo&show_icons=true&count_private=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+### <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaozhiliaoo&show_icons=true&count_private=true&theme=gruvbox&hide_title=true" />
 
 I'm xiaozhiliaoo. I'm interested in software design and distributed system design.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xiaozhiliaoo&row=1&column=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xiaozhiliaoo&theme=gruvbox&row=1&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhiliaoo&hide=html,css&&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhiliaoo&theme=gruvbox&hide=html,css&&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Feel Free to Contact Me through E-mail 
