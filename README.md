@@ -1,5 +1,6 @@
-### <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaozhiliaoo&show_icons=true&count_private=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-I'm LiLi. I'm interested in software desgin and distributed system design.
+### <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaozhiliaoo&theme=gruvbox&show_icons=true&count_private=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+I'm xiaozhiliaoo. I'm interested in software design and distributed system design.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xiaozhiliaoo&theme=gruvbox&row=1&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
