@@ -29,7 +29,7 @@ Feel Free to Contact Me through E-mail
 - [Books](https://xiaozhiliaoo.github.io/reading-list/)  The book I bought and read.
 - [TechQuotes](https://xzl.gitbook.io/tech-quotes/) Technical thought and caprice.
 
-### **Languages and Tools:**
+### Languages and Tools
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
