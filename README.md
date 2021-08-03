@@ -53,6 +53,8 @@ Feel Free to Contact Me through E-mail
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
   <br/>
 </p>
+
+
 ### Coding Stats
 
-![xiaozhiliaoo coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiaozhiliaoo&theme=dark)
+![xiaozhiliaoo coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiaozhiliaoo)
