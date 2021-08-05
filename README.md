@@ -57,4 +57,4 @@ Feel Free to Contact Me through E-mail
 
 ### Coding Stats
 
-![xiaozhiliaoo coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiaozhiliaoo)
+![xiaozhiliaoo coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiaozhiliaoo&layout=compact&theme=dark)
