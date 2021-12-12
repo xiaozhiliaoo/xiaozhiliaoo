@@ -1,6 +1,6 @@
 ### <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaozhiliaoo&show_icons=true&count_private=true&theme=gruvbox&hide_title=true" />
 
-I'm xiaozhiliaoo. I'm interested in software design and distributed system design.
+I'm xiaozhiliaoo. I'm interested in software design，distributed system and database.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xiaozhiliaoo&theme=gruvbox&row=1&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
