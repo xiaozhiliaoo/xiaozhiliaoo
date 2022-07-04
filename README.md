@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=xiaozhiliaoo)
 
-I'm xiaozhiliao（小知了）. I'm interested in [software/architecture design](https://xiaozhiliaoo.github.io/architecture-practice) ，[distributed system](https://xiaozhiliaoo.github.io/distributed-system-practice) ，[database system](https://xiaozhiliaoo.github.io/database-system-practice).
+I'm xiaozhiliao(***小知了***). I'm interested in [software/architecture design](https://xiaozhiliaoo.github.io/architecture-practice) ，[distributed system](https://xiaozhiliaoo.github.io/distributed-system-practice) ，[database system](https://xiaozhiliaoo.github.io/database-system-practice).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xiaozhiliaoo&theme=gruvbox&row=1&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
