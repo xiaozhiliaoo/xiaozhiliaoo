@@ -13,6 +13,13 @@ Feel Free to Contact Me through E-mail
 
 - [E-mail](mailto:xiaozhiliaoo@gmail.com)
 
+### Books
+
+参与翻译Scala编程实战第二版
+
+![](image/scala-v2.jpg)
+
+
 ### Engineering Practice
 
 - [practice-hub](https://github.com/xiaozhiliaoo/practice-hub)  My engineering practice summary.
