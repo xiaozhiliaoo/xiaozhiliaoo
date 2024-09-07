@@ -15,9 +15,13 @@ Feel Free to Contact Me through E-mail
 
 ### Books
 
-参与翻译Scala编程实战第二版
+参与翻译《Scala编程实战 原书第2版》 [京东](https://item.jd.com/14161936.html)
 
 ![](image/scala-v2.jpg)
+
+参与翻译《从零构建Rust生产级服务》  [京东](https://item.jd.com/10115189229199.html)
+
+![](image/zero2rust.png)
 
 
 ### Engineering Practice
